@@ -73,6 +73,10 @@
 
   init();
 
+    // правильные пути (с учётом, что всё в папке assets)
+    const MANIFEST_PATH = "./assets/manifest.json";
+const DESCRIPTIONS_PATH = "./assets/descriptions.json";
+
   async function init(){
     // загрузить manifest и descriptions
     const [manifest, descriptions] = await Promise.all([loadJSON(MANIFEST_PATH), loadJSON(DESCRIPTIONS_PATH)]);
