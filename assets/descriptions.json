@@ -17,13 +17,6 @@
   "paintingA16.jpg": {"title":"The slipping moment","description":"Oil on canvas. Acryl, Gold 40x60","author":"S. Vinyarskiy"},
   "paintingA17.jpg": {"title":"Cis moll. Music in color","description":"Oil on canvas 40x50","author":"S. Vinyarskiy"},
   "paintingA18.jpg": {"title":"Spherical composition","description":"Oil on canvas 60x70","author":"S. Vinyarskiy"},
-  "paintingA19.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA20.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA21.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA22.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA23.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA24.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
-  "paintingA25.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
   "paintingG01.jpg": {"title":"Angel with bowls. The Seventh Cup.","description":"Canvas, oil, gold 40x30","author":"S. Vinyarskiy"},
   "paintingG02.jpg": {"title":"Angel with a letter","description":"Canvas, oil, gold 40x30","author":"S. Vinyarskiy"},
   "paintingG03.jpg": {"title":"Die Bucht im Morgengrauen","description":"Oil on canvas 50x45","author":"S. Vinyarskiy"},
@@ -35,7 +28,6 @@
   "paintingG09.jpg": {"title":"Merciful fornicator","description":"Oil on canvas 50x75","author":"S. Vinyarskiy"},
   "paintingG10.jpg": {"title":"Merciful fornicator. Fall","description":"Oil on canvas 50x75","author":"S. Vinyarskiy"},
   "paintingG11.jpg": {"title":"The bay at noon","description":"Oil on canvas 50x45","author":"S. Vinyarskiy"},
-  "paintingG12.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"},
   "paintingS01.jpg": {"title":"Game. Balance","description":"Oil on canvas 60x60. Every victory upsets the balance","author":"S. Vinyarskiy"},
   "paintingS02.jpg": {"title":"The Hermit","description":"Oil on canvas 100x60. Wisdom, Self-Knowledge and the Spiritual Path.","author":"S. Vinyarskiy"},
   "paintingS03.jpg": {"title":"Time of change","description":"Oil on canvas 50x60. The adjustments can be made in any way - this is also possible, as well as converting picture","author":"S. Vinyarskiy"},
@@ -47,6 +39,6 @@
   "paintingS09.jpg": {"title":"The angel","description":"Oil on canvas 70x60","author":"S. Vinyarskiy"},
   "paintingS10.jpg": {"title":"Flower of Life","description":"Oil on canvas 80x120","author":"S. Vinyarskiy"},
   "paintingS11.jpg": {"title":"Healing","description":"Oil on canvas 80x60","author":"S. Vinyarskiy"},
-  "paintingS12.jpg": {"title":"Farewell to the spruce","description":"Oil on canvas 60x80","author":"S. Vinyarskiy"},
-  "paintingS13.jpg": {"title":"Натюрморт G01","description":"Ручная работа...","author":"S. Vinyarskiy"}
-}
+  "paintingS12.jpg": {"title":"Farewell to the spruce","description":"Oil on canvas 60x80","author":"S. Vinyarskiy"}
+ }
+
